@@ -1,2 +1,2 @@
-server:
-  port: 6789 
+config:
+  info: this is spring cloud config test
